@@ -1,0 +1,1 @@
+ C:\\Users\\Sandinu\\Documents\\VS_Code\\FlutterDart\\lecturer\ tutorial\ projects\\book_management_app_development\\.dart_tool\\flutter_build\\c5a73b5fd1e13cbd55b8f61a434f2bd8\\native_assets.yaml: 
